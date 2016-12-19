@@ -18,5 +18,6 @@
   },
   "devDependencies": {
     "jsdoc": "^3.4.3"
-  }
+  },
+  "repository": "git@github.com:aniddan/express-jwt-users.git"
 }

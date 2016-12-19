@@ -1,0 +1,22 @@
+{
+  "name": "express-jwt-users",
+  "version": "0.9.0",
+  "description": "JWT user authentication router",
+  "main": "src/index.js",
+  "author": "Iddan Aharonson",
+  "license": "MIT",
+  "scripts": {
+    "document": "jsdoc -r src -d docs"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-jwt": "^5.1.0",
+    "jsonschema": "^1.1.1",
+    "jsonwebtoken": "^7.2.1",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.4.3"
+  }
+}
